@@ -240,14 +240,20 @@ knitr::include_graphics(c("../img/maf105.jpg","../img/maf261.jpg"))
 knitr::include_graphics(c("../img/artigo1.jpg","../img/artigo2.jpg"))
 ``` 
 ---
-```
+```{r, echo=FALSE, fig.align='center', warning=FALSE, cache.comments=FALSE, message=FALSE}
 library(cowplot)
 library(ggplot2)
+library(magick)
 
-p1 <- ggdraw() + draw_image("../img/PessoalPage.jpg", scale = 0.9)
-p2 <- ggdraw() + draw_image("../img/PessoalPage.jpg", scale = 0.9)
+p1 <- ggdraw() + draw_image("https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/PessoalPage.jpg", scale=1)
+p2 <- ggdraw() + draw_image("https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/maf172.jpg", scale=1)
+p3 <- ggdraw() + draw_image("https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/maf105.jpg", scale=1)
+p4 <- ggdraw() + draw_image("https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/maf261.jpg", scale=1)
+p5 <- ggdraw() + draw_image("https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/artigo1.jpg", scale=1)
+p6 <- ggdraw() + draw_image("https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/artigo2.jpg", scale=1)
 
-plot_grid(p1, p2)
+plot_grid(p1, p2, p3, p4, p5, p6, align = "hv", nrow = 3, ncol = 2)
+
 ```
 ---
 
