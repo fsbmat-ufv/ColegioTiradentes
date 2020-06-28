@@ -257,7 +257,20 @@ plot_grid(p1, p2, p3, p4, p5, p6, align = "hv", nrow = 3, ncol = 2)
 ```
 ---
 
+<table>
+<tr><td><a href="https:fsbmat-ufv.github.io"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/PessoalPage.jpg"></a></td>
+    <td><a href="https:maf172.github.io"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/maf172.jpg"></a></td>
+</tr>
 
+<tr><td><a href="https:maf105.github.io"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/maf105.jpg"></a></td>
+    <td><a href="https:maf261.github.io"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/maf261.jpg"></a></td>
+</tr>
+
+<tr><td><a href="https://arxiv.org/abs/2004.11470"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/artigo1.jpg"></a></td>
+    <td><a href="https://www.tandfonline.com/doi/abs/10.1080/02664763.2020.1780570?journalCode=cjas20"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/artigo2.jpg"></a></td>
+</tr>
+</table>
+---
 
 # Como a ciência funciona
 
