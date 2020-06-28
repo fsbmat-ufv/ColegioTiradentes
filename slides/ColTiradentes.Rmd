@@ -96,7 +96,7 @@ O momento em que vivemos é uma mistura de gerações que está sofrendo para se
 # Demoramos para perceber...
 
 ```{r, echo=FALSE,out.width="49%", out.height="20%",fig.cap=" ",fig.show='hold',fig.align='center'}
-knitr::include_graphics(c("../img/Cell1.jpg","../img/Cell2.jpg"))
+knitr::include_graphics(c("../img/cell1.jpg","../img/cell2.jpg"))
 ``` 
 <p style="text-align: justify;">
 De fato, não nos demos conta, mas a tecnologia, o uso de celular e de ferramentas tecnológicas já tomam conta da mente de nossos alunos, muito antes dessa pandemia.
@@ -176,7 +176,7 @@ class: center, middle, inverse
 
 ---
 ```{r, echo=FALSE,out.width = "800px", out.height= "500px",fig.align='center'}
-knitr::include_graphics("../img/KhanAcademy.jpg")
+knitr::include_graphics("../img/khanAcademy.jpg")
 ```
 ---
 
