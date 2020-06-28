@@ -205,7 +205,7 @@ knitr::include_graphics("../img/Youtube.jpg")
 - [Duolingo](https://www.duolingo.com/)`r icon::fa("external-link-alt")`
 - [StackOverflow](https://pt.stackoverflow.com/)`r icon::fa("external-link-alt")`
 - [StackExchange](https://stackexchange.com/sites)`r icon::fa("external-link-alt")`
-- Se quiser saber mais sobre o cursos online gratuitos [clique aqui](https://pt.lmgtfy.com/?q=cursos+online+gratuitos)
+- Se quiser saber mais sobre cursos online gratuitos [clique aqui](https://pt.lmgtfy.com/?q=cursos+online+gratuitos)
 - Softwares R, Geogebra, Excel,  linguagem Latex - [(overleaf)](https://www.overleaf.com?r=4468ebc9&rm=d&rs=b)
 
 
@@ -234,7 +234,22 @@ knitr::include_graphics("../img/rstudio-editor.png")
 
 ---
 
+```{r, echo=FALSE,out.width="49%", out.height="20%",fig.cap=" ",fig.show='hold',fig.align='center'}
+knitr::include_graphics(c("../img/PessoalPage.jpg","../img/maf172.jpg"))
+knitr::include_graphics(c("../img/maf105.jpg","../img/maf261.jpg"))
+knitr::include_graphics(c("../img/artigo1.jpg","../img/artigo2.jpg"))
+``` 
+---
+```
+library(cowplot)
+library(ggplot2)
 
+p1 <- ggdraw() + draw_image("../img/PessoalPage.jpg", scale = 0.9)
+p2 <- ggdraw() + draw_image("../img/PessoalPage.jpg", scale = 0.9)
+
+plot_grid(p1, p2)
+```
+---
 
 
 

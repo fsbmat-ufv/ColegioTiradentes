@@ -203,7 +203,7 @@ class: center, middle, inverse
 - [Duolingo](https://www.duolingo.com/)<i class="fas  fa-external-link-alt "></i>
 - [StackOverflow](https://pt.stackoverflow.com/)<i class="fas  fa-external-link-alt "></i>
 - [StackExchange](https://stackexchange.com/sites)<i class="fas  fa-external-link-alt "></i>
-- Se quiser saber mais sobre o cursos online gratuitos [clique aqui](https://pt.lmgtfy.com/?q=cursos+online+gratuitos)
+- Se quiser saber mais sobre cursos online gratuitos [clique aqui](https://pt.lmgtfy.com/?q=cursos+online+gratuitos)
 - Softwares R, Geogebra, Excel,  linguagem Latex - [(overleaf)](https://www.overleaf.com?r=4468ebc9&amp;rm=d&amp;rs=b)
 
 
@@ -228,7 +228,21 @@ Apesar de ser simples utilizar o R diretamente do seu console raiz, existe um co
 
 ---
 
+&lt;div class="figure" style="text-align: center"&gt;
+&lt;img src="../img/PessoalPage.jpg" alt=" " width="49%" height="20%" /&gt;&lt;img src="../img/maf172.jpg" alt=" " width="49%" height="20%" /&gt;&lt;img src="../img/maf105.jpg" alt=" " width="49%" height="20%" /&gt;&lt;img src="../img/maf261.jpg" alt=" " width="49%" height="20%" /&gt;&lt;img src="../img/artigo1.jpg" alt=" " width="49%" height="20%" /&gt;&lt;img src="../img/artigo2.jpg" alt=" " width="49%" height="20%" /&gt;
+&lt;p class="caption"&gt; &lt;/p&gt;
+&lt;/div&gt;
+---
+```
+library(cowplot)
+library(ggplot2)
 
+p1 &lt;- ggdraw() + draw_image("../img/PessoalPage.jpg", scale = 0.9)
+p2 &lt;- ggdraw() + draw_image("../img/PessoalPage.jpg", scale = 0.9)
+
+plot_grid(p1, p2)
+```
+---
 
 
 
