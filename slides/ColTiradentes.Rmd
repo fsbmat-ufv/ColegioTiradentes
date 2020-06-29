@@ -231,31 +231,6 @@ Apesar de ser simples utilizar o R diretamente do seu console raiz, existe um co
 ```{r, echo=FALSE,out.width = "500px", fig.align='center'}
 knitr::include_graphics("../img/rstudio-editor.png")
 ```
-<!--
----
-
-```{r, echo=FALSE,out.width="49%", out.height="20%",fig.cap=" ",fig.show='hold',fig.align='center'}
-knitr::include_graphics(c("../img/PessoalPage.jpg","../img/maf172.jpg"))
-knitr::include_graphics(c("../img/maf105.jpg","../img/maf261.jpg"))
-knitr::include_graphics(c("../img/artigo1.jpg","../img/artigo2.jpg"))
-``` 
----
-```{r, echo=FALSE, fig.align='center', warning=FALSE, cache.comments=FALSE, message=FALSE}
-library(cowplot)
-library(ggplot2)
-library(magick)
-
-p1 <- ggdraw() + draw_image("https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/PessoalPage.jpg", scale=1)
-p2 <- ggdraw() + draw_image("https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/maf172.jpg", scale=1)
-p3 <- ggdraw() + draw_image("https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/maf105.jpg", scale=1)
-p4 <- ggdraw() + draw_image("https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/maf261.jpg", scale=1)
-p5 <- ggdraw() + draw_image("https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/artigo1.jpg", scale=1)
-p6 <- ggdraw() + draw_image("https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/artigo2.jpg", scale=1)
-
-plot_grid(p1, p2, p3, p4, p5, p6, align = "hv", nrow = 3, ncol = 2)
-
-```
--->
 ---
 
 <table>
@@ -282,8 +257,34 @@ plot_grid(p1, p2, p3, p4, p5, p6, align = "hv", nrow = 3, ncol = 2)
 </table>
 ---
 
+# CoronaBR: Dashboard com visualizações sobre os dados da Covid 19
+
 <table>
-<tr><td><a href="https://fsbmat.shinyapps.io/CoronaBR"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/CoronaBR.jpg"></a></td>
+<tr><td><a href="https://fsbmat.shinyapps.io/CoronaBR"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/CoronaBR.jpg"></center></a></td>
+</tr>
+</table>
+
+**Vantagens**
+
+- Apresenta dados somente sobre as cidades que possuem casos confirmados;
+- Apresenta estimativa dos recuperados;
+- Atualiza de 12 em 12 horas;
+- Apresenta o Código Fonte.
+---
+
+# Estados
+
+<table>
+<tr><td><a href="https://fsbmat.shinyapps.io/CoronaBR"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Estados.jpg"></center></a></td>
+</tr>
+</table>
+
+---
+
+# Cidades
+
+<table>
+<tr><td><a href="https://fsbmat.shinyapps.io/CoronaBR"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Cidades.jpg"></center></a></td>
 </tr>
 </table>
 
