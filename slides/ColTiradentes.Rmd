@@ -311,7 +311,12 @@ knitr::include_graphics("../img/rstudio-editor.png")
 # Painel Registral - Registro Civil
 
 <table>
-<tr><td><a href="https://transparencia.registrocivil.org.br/especial-covid"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/cartorio2.jpg"></center></a></td>
+<tr><td><a href="https://transparencia.registrocivil.org.br/especial-covid"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/cartorio2.png"></center></a></td>
+</tr>
+</table>
+
+<table>
+<tr><td><a href="https://transparencia.registrocivil.org.br/especial-covid"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/cartorio3.png"></center></a></td>
 </tr>
 </table>
 
@@ -320,7 +325,7 @@ knitr::include_graphics("../img/rstudio-editor.png")
 # Painel Registral - Registro Civil
 
 <table>
-<tr><td><a href="https://transparencia.registrocivil.org.br/especial-covid"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/cartorio3.jpg"></center></a></td>
+<tr><td><a href="https://transparencia.registrocivil.org.br/especial-covid"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/cartorio4.png"></center></a></td>
 </tr>
 </table>
 
@@ -329,16 +334,7 @@ knitr::include_graphics("../img/rstudio-editor.png")
 # Painel Registral - Registro Civil
 
 <table>
-<tr><td><a href="https://transparencia.registrocivil.org.br/especial-covid"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/cartorio4.jpg"></center></a></td>
-</tr>
-</table>
-
----
-
-# Painel Registral - Registro Civil
-
-<table>
-<tr><td><a href="https://transparencia.registrocivil.org.br/especial-covid"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/cartorio5.jpg"></center></a></td>
+<tr><td><a href="https://transparencia.registrocivil.org.br/especial-covid"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/cartorio5.png"></center></a></td>
 </tr>
 </table>
 
