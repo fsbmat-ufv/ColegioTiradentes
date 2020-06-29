@@ -167,16 +167,6 @@ Ser pró-ativo e saber buscar a informação de maneira rapída depende de estud
 
 ---
 
-## Programação de Computador como Arte 
-
-> *Ciência é conhecimento que entendemos tão bem que podemos ensiná-la
-> para um computador. Todo o resto é arte.*
-
-> Donald Knuth, 1974
-
----
-
-
 class: center, middle, inverse
 # Ensino Remoto
 
@@ -287,6 +277,11 @@ knitr::include_graphics("../img/rstudio-editor.png")
 </tr>
 </table>
 
+<p style="text-align: justify;">
+Técnica de visualização para representar dados hierárquicos usando retângulos aninhados. Nesse caso a área do retângulo representa o número de contaminados e a intensidade da cor vermelha representa o número de óbitos.
+</p>
+
+
 ---
 
 # Estados
@@ -296,6 +291,9 @@ knitr::include_graphics("../img/rstudio-editor.png")
 </tr>
 </table>
 
+- Casos de confirmados e óbitos acumulados;
+- Número de casos diários.
+
 ---
 
 # Cidades
@@ -304,6 +302,9 @@ knitr::include_graphics("../img/rstudio-editor.png")
 <tr><td><a href="https://fsbmat.shinyapps.io/CoronaBR"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Cidades.jpg"></center></a></td>
 </tr>
 </table>
+
+- Casos Diários 
+- Casos Acumulados
 
 ---
 
@@ -428,6 +429,41 @@ Outras causas relacionadas também foram avaliadas, como:
 - **Total de óbitos: 581.137**
 ]
 ]
+---
+
+<table>
+<tr><td><a href="https://covid19br.github.io/cenarios.html?aba=aba1"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/SemIsolamento.svg"></center></a></td>
+</tr>
+</table>
+
+<p style="text-align: justify;">
+O pico de infectados, sem medidas de distanciamento, poderia ter ocorrido em abril. Estima-se que o número real de infectados no começo de abril foi, ao menos, 10 vezes menor, se comparado ao pico no cenário hipotético de evolução descontrolada da doença.
+</p>
+
+[Observatório COVID-19](https://covid19br.github.io/cenarios.html?aba=aba1)
+
+---
+
+<table>
+<tr><td><a href="https://covid19br.github.io/cenarios.html?aba=aba2#"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Simulacao1.svg"></center></a></td>
+</tr>
+</table>
+
+<p style="text-align: justify;">
+O pico de infectados, que poderia ter ocorrido no início de abril e contado com milhões de casos (cenário (a)), foi adiado e achatado, além disso, o achatamento  (cenário (c)) implicaria em cerca de 10 vezes menos infectados e mortos.
+</p>
+
+[Observatório COVID-19](https://covid19br.github.io/cenarios.html?aba=aba2)
+
+---
+
+## Ciência como Arte 
+
+> *Ciência é conhecimento que entendemos tão bem que podemos ensiná-la
+> para um computador. Todo o resto é arte.*
+
+> Donald Knuth, 1974
+
 ---
 
 # Como a ciência funciona
