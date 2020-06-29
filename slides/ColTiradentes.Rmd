@@ -445,11 +445,14 @@ O pico de infectados, sem medidas de distanciamento, poderia ter ocorrido em abr
 ---
 
 
-
+<table>
+<tr><td><a href="https://covid19br.github.io/cenarios.html?aba=aba2#">
 <center>
   <img width="50%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Simulacao1.svg"></img>
 </center>
-
+</a></td>
+</tr>
+</table>
 
 <p style="text-align: justify;">
 O pico de infectados, que poderia ter ocorrido em abril com milhões de casos (cenário (a)), foi adiado e achatado, O cenário (c) implicaria em cerca de 10 vezes menos infectados e mortos.
@@ -458,6 +461,59 @@ O pico de infectados, que poderia ter ocorrido em abril com milhões de casos (c
 [Observatório COVID-19](https://covid19br.github.io/cenarios.html?aba=aba2)
 
 ---
+
+
+<table>
+<tr><td><a href="https://covid19br.github.io/cenarios.html?aba=aba3#">
+<center>
+  <img width="50%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Leitos.svg"></img>
+</center>
+</a></td>
+</tr>
+</table>
+
+<p style="text-align: justify;">
+As linhas horizontais tracejadas indicam a capacidade aproximada do sistema de saúde municipal para cada tipo de leito, baseada em dados do Cadastro Nacional de Estabelecimentos de Saúde (CNES) de fevereiro de 2020.
+</p>
+
+[Observatório COVID-19](https://covid19br.github.io/cenarios.html?aba=aba3#)
+
+---
+
+<table>
+<tr><td><a href="https://covid19br.github.io/estados.html?uf=mg#">
+<center>
+  <img width="80%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/ObservatorioMG.svg"></img>
+</center>
+</a></td>
+</tr>
+</table>
+
+<p style="text-align: justify;">
+Pontos em azul são a previsão para os próximos 5 dias (entre 64908 e 67956 casos em 03/07/2020), se a taxa de crescimento continuar a mesma dos últimos 5 dias. Acessado no dia 29/06/2020.
+</p>
+
+[Observatório COVID-19](https://covid19br.github.io/estados.html?uf=mg#)
+
+---
+
+<table>
+<tr><td><a href="https://dest-ufmg.shinyapps.io/app_COVID19/">
+<center>
+  <img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/CovidLPMG.png"></img>
+</center>
+</a></td>
+</tr>
+</table>
+
+<p style="text-align: justify;">
+Pontos em pretos são a previsão para os próximos 14 dias (entre 55623 casos em 03/07/2020), se a taxa de crescimento continuar a mesma dos últimos 5 dias. Acessado no dia 29/06/2020.
+</p>
+
+[app_COVID19](https://dest-ufmg.shinyapps.io/app_COVID19/)
+
+---
+
 
 ## Ciência como Arte 
 
