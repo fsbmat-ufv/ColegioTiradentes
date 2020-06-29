@@ -272,6 +272,15 @@ knitr::include_graphics("../img/rstudio-editor.png")
 - Apresenta o Código Fonte.
 ---
 
+# Treemap
+
+<table>
+<tr><td><a href="https://fsbmat.shinyapps.io/CoronaBR"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Treemap.jpg"></center></a></td>
+</tr>
+</table>
+
+---
+
 # Estados
 
 <table>
