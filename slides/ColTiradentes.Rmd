@@ -206,6 +206,13 @@ Ser pró-ativo e saber buscar a informação de maneira rapída depende de estud
 
 ## Salário
 
+<table>
+<tr><td><a href="https://www.vagas.com.br/cargo/cientista-de-dados"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/salario2.jpg"></a></td>
+</tr>
+</table>
+
+[Vagas.com](https://www.vagas.com.br/cargo/cientista-de-dados)
+
 ---
 
 
