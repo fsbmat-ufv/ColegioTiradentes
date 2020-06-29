@@ -34,8 +34,14 @@ knitr::include_graphics("../img/QrCode.png")
 # Introdução
 
 ```{r, echo=FALSE,out.width="49%", out.height="20%",fig.cap=" ",fig.show='hold',fig.align='center'}
-knitr::include_graphics(c("../img/BabyBoomers.jpg","../img/GeracaoX.jpg"))
+#knitr::include_graphics(c("../img/BabyBoomers.jpg","../img/GeracaoX.jpg"))
 ```
+
+<table>
+<tr><td><a href="https://comunicandogeracoes.wordpress.com/2013/03/22/a-geracao-baby-boomers/"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/BabyBoomers.jpg"></a></td>
+    <td><a href="https://www.meioemensagem.com.br/home/midia/2017/05/29/por-que-a-geracao-x-ficou-esquecida.html"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/GeracaoX.jpg"></a></td>
+</tr>
+</table>
 
 .msmall[
 .pull-left-50[
@@ -59,8 +65,14 @@ knitr::include_graphics(c("../img/BabyBoomers.jpg","../img/GeracaoX.jpg"))
 ---
 
 ```{r, echo=FALSE,out.width="49%", out.height="20%",fig.cap=" ",fig.show='hold',fig.align='center'}
-knitr::include_graphics(c("../img/GenerationY.png","../img/GenerationZ.jpg"))
+#knitr::include_graphics(c("../img/GenerationY.png","../img/GenerationZ.jpg"))
 ``` 
+
+<table>
+<tr><td><a href="https://www.hojeemdia.com.br/plural/talentosa-mas-imediatista-gera%C3%A7%C3%A3o-y-precisa-de-empurr%C3%A3o-para-produzir-melhor-1.642946"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/GenerationY.png"></a></td>
+    <td><a href="https://www.todoestudo.com.br/historia/nativos-digitais-e-imigrantes-digitais"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/GenerationZ.jpg"></a></td>
+</tr>
+</table>
 
 .msmall[
 .pull-left-50[
@@ -96,8 +108,15 @@ O momento em que vivemos é uma mistura de gerações que está sofrendo para se
 # Demoramos para perceber...
 
 ```{r, echo=FALSE,out.width="49%", out.height="20%",fig.cap=" ",fig.show='hold',fig.align='center'}
-knitr::include_graphics(c("../img/cell1.jpg","../img/cell2.jpg"))
+#knitr::include_graphics(c("../img/cell1.jpg","../img/cell2.jpg"))
 ``` 
+
+<table>
+<tr><td><a href="https://www.businessinsider.com/best-ways-to-transfer-data-to-new-phone-2018-12"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/cell1.jpg"></a></td>
+    <td><a href="https://archive.shine.cn/business/Smartphone-growth-creating-etiquette-challenges/shdaily.shtml"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/cell2.jpg"></a></td>
+</tr>
+</table>
+
 <p style="text-align: justify;">
 De fato, não nos demos conta, mas a tecnologia, o uso de celular e de ferramentas tecnológicas já tomam conta da mente de nossos alunos, muito antes dessa pandemia.
 </p>
@@ -119,18 +138,36 @@ class: center, middle, inverse
 
 ---
 ```{r, echo=FALSE,out.width = "800px", out.height= "500px",fig.align='center'}
-knitr::include_graphics("../img/khanAcademy.jpg")
+#knitr::include_graphics("../img/khanAcademy.jpg")
+```
+
+<table>
+<tr><td><a href="https://pt.khanacademy.org/"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/khanAcademy.jpg"></a></td>
+</table>
+
+Khan Academy é uma organização sem fins lucrativos fundada por Salman Khan. No Brasil, os vídeos são traduzidos para português brasileiro pela Fundação Lemann.
+
+---
+
+<table>
+<tr><td><a href="https://www.ted.com/"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/TEDtalks.jpg"></a></td>
+</table>
+
+O TED é uma organização sem fins lucrativos dedicada a espalhar idéias, geralmente na forma de palestras curtas (18 minutos ou menos). Existe desde 1984.
+
+```{r, echo=FALSE,out.width = "800px", out.height= "500px",fig.align='center'}
+#knitr::include_graphics("../img/TEDtalks.jpg")
 ```
 ---
 
-```{r, echo=FALSE,out.width = "800px", out.height= "500px",fig.align='center'}
-knitr::include_graphics("../img/TEDtalks.jpg")
-```
----
+<table>
+<tr><td><a href="https://www.youtube.com/"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Youtube.jpg"></a></td>
+</table>
 
+Plataforma de compartilhamento de vídeos com sede em San Bruno, Califórnia. O serviço foi criado por três ex-funcionários do PayPal - Chad Hurley, Steve Chen e Jawed Karim - em fevereiro de 2005. 
 
 ```{r, echo=FALSE,out.width = "800px", out.height= "500px",fig.align='center'}
-knitr::include_graphics("../img/Youtube.jpg")
+#knitr::include_graphics("../img/Youtube.jpg")
 ```
 ---
 
@@ -153,9 +190,14 @@ knitr::include_graphics("../img/Youtube.jpg")
 
 ---
 
+<table>
+<tr><td><a href="https://www.americatv.com.pe/noticias/salud/que-suenan-dedos-al-doblarlos-n265822"><img src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/beginWork.gif" alt="this slowpoke moves"  width=1000/></a></td>
+</table>
+
+
 
 ```{r, echo=FALSE,out.width = "900px", fig.align='center'}
-knitr::include_graphics("../img/beginWork.gif")
+#knitr::include_graphics("../img/beginWork.gif")
 ```
 
 ---
@@ -585,18 +627,10 @@ class: center, middle, inverse
 ---
 # Referências
 
-- Box, GEP; Hunter, JS; Hunter, WG. [Statistics for experimenters:
-  Design Innovation and Discovery](http://statisticsforexperimenters.net).
-  John Wiley & Sons, 2005.
-- Kitzes, J., Turek, D., & Deniz, F. (Eds.). (2018). [The Practice of
-  Reproducible Research: Case Studies and Lessons from the
-  Data-Intensive
-  Sciences](https://www.practicereproducibleresearch.org/).
-  Oakland, CA: University of California Press
-- Gandrud, C. (2015). [Reproducible Research with R and R
-  Studio](https://www.crcpress.com/Reproducible-Research-with-R-and-R-Studio-Second-Edition/Gandrud/p/book/9781498715379)
-- Stodden, V., Leisch, F., Peng, RD. (2014). [Implementing Reproducible
-  Research](https://www.crcpress.com/Implementing-Reproducible-Research/Stodden-Leisch-Peng/p/book/9781466561595)
+- Bastos, F.S. [Dashboard sobre a Covid19](https://fsbmat.shinyapps.io/CoronaBR/), acessado em 29/06/2020.
+- Pesquisadores, Professores e Alunos da UFMG. [CovidLP - Previsão de Curto e Longo prazos para Covid-19](http://est.ufmg.br/covidlp/home/pt/), acessado em 29/06/2020. 
+- Pesquisadores, Professores e Alunos de diversas Instituições de Ensino [Observatório Covid-19 BR](https://covid19br.github.io/index.html), acessado em 29/06/2020.
+- Melo, C., [SIGMODAL](https://sigmoidal.ai/quanto-ganha-um-cientista-de-dados/), acessado em 29/06/2020.
 - Gentleman, R, Lang, DT. (2012). [Statistical Analyses and Reproducible
   Research](http://www.tandfonline.com/doi/abs/10.1198/106186007X178663).
   Journal of Computational and Graphical Statistics.
