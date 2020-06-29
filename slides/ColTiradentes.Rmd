@@ -1,5 +1,5 @@
 ---
-title: "Evolução, Ciência de Dados e Ensino Remoto"
+title: "Evolução, Ensino Remoto e Ciência de Dados"
 subtitle: "Aprendizado e Interação Durante a Pandemia"
 author: "Fernando Bastos (MAF/CAF/UFV)"
 date: 2020-06-04
