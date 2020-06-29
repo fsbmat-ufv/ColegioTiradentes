@@ -444,13 +444,15 @@ O pico de infectados, sem medidas de distanciamento, poderia ter ocorrido em abr
 
 ---
 
-<table>
-<tr><td><a href="https://covid19br.github.io/cenarios.html?aba=aba2#"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Simulacao1.svg"></center></a></td>
-</tr>
-</table>
+
+
+<center>
+  <img width="50%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Simulacao1.svg"></img>
+</center>
+
 
 <p style="text-align: justify;">
-O pico de infectados, que poderia ter ocorrido no início de abril e contado com milhões de casos (cenário (a)), foi adiado e achatado, além disso, o achatamento  (cenário (c)) implicaria em cerca de 10 vezes menos infectados e mortos.
+O pico de infectados, que poderia ter ocorrido em abril com milhões de casos (cenário (a)), foi adiado e achatado, O cenário (c) implicaria em cerca de 10 vezes menos infectados e mortos.
 </p>
 
 [Observatório COVID-19](https://covid19br.github.io/cenarios.html?aba=aba2)
