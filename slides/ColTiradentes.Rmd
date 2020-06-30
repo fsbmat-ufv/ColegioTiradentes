@@ -223,7 +223,7 @@ class: center, middle, inverse
 
 ---
 <p style="text-align: justify;">
-De acordo com o [Instituto Gartner](https://www.gartner.com/en/), é possível que até o final de 2020 haja um total de 40 trilhões de gigabytes de dados no mundo. Isso significa 2,2 milhões de terabytes de novos dados gerados todos os dias. Estima-se que menos de 5% dos dados gerados são analisados e transformados em informação.
+De acordo com o <a href="https://www.gartner.com/en/" title="Instituto Gartner">Instituto Gartner</a>, é possível que até o final de 2020 haja um total de 40 trilhões de gigabytes de dados no mundo. Isso significa 2,2 milhões de terabytes de novos dados gerados todos os dias. Estima-se que menos de 5% dos dados gerados são analisados e transformados em informação.
 </p>
 
 <table>
