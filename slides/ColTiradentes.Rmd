@@ -20,13 +20,17 @@ source("setup_knitr.R")
 # Slides
 
 .msmall[
-- HTML: https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/slides/ColTiradentes.html#1
+- HTML: [Clique Aqui!](https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/slides/ColTiradentes.html#1)
 <!-- - PDF: endereco_aqui.pdf -->
-- Código-fonte: https://github.com/fsbmat-ufv/ColegioTiradentes/tree/master/slides
+- Código-fonte: [Clique Aqui!](https://github.com/fsbmat-ufv/ColegioTiradentes/tree/master/slides)
 ]
 
+<table>
+<tr><td><a href="https://tenor.com/view/gato-escribiendo-gif-6108221"><img src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/QrCode.png" alt="this slowpoke moves"  width=300/></a></td>
+</table>
+
 ```{r, echo=FALSE, out.width='50%'}
-knitr::include_graphics("../img/QrCode.png")
+#knitr::include_graphics("../img/QrCode.png")
 ```
 
 
@@ -144,17 +148,17 @@ class: center, middle, inverse
 <table>
 <tr><td><a href="https://pt.khanacademy.org/"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/khanAcademy.jpg"></a></td>
 </table>
-
+<p style="text-align: justify;">
 Khan Academy é uma organização sem fins lucrativos fundada por Salman Khan. No Brasil, os vídeos são traduzidos para português brasileiro pela Fundação Lemann.
-
+</p>
 ---
 
 <table>
 <tr><td><a href="https://www.ted.com/"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/TEDtalks.jpg"></a></td>
 </table>
-
+<p style="text-align: justify;">
 O TED é uma organização sem fins lucrativos dedicada a espalhar idéias, geralmente na forma de palestras curtas (18 minutos ou menos). Existe desde 1984.
-
+</p>
 ```{r, echo=FALSE,out.width = "800px", out.height= "500px",fig.align='center'}
 #knitr::include_graphics("../img/TEDtalks.jpg")
 ```
@@ -163,9 +167,9 @@ O TED é uma organização sem fins lucrativos dedicada a espalhar idéias, gera
 <table>
 <tr><td><a href="https://www.youtube.com/"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Youtube.jpg"></a></td>
 </table>
-
+<p style="text-align: justify;">
 Plataforma de compartilhamento de vídeos com sede em San Bruno, Califórnia. O serviço foi criado por três ex-funcionários do PayPal - Chad Hurley, Steve Chen e Jawed Karim - em fevereiro de 2005. 
-
+</p>
 ```{r, echo=FALSE,out.width = "800px", out.height= "500px",fig.align='center'}
 #knitr::include_graphics("../img/Youtube.jpg")
 ```
@@ -212,14 +216,22 @@ class: center, middle, inverse
 <p style="text-align: justify;">
 é a área que incluí informações e conceitos complexos sobre dados e análise de dados. É multidisciplinar e está estruturada em variados setores, canais e plataformas. Seu fluxo é dado por:
 </p>
-<img src="../img/ciclo-ciencia-de-dados.png" style = "display: block; margin-left: auto; margin-right: auto;">
+<table>
+<tr><td><a href="https://openscapes.github.io/slides/betterscience/socalR#20">
+<img src="../img/data-science.png" style = "display: block; margin-left: auto; margin-right: auto;"></a></td>
+</table>
 
 ---
 <p style="text-align: justify;">
 De acordo com o [Instituto Gartner](https://www.gartner.com/en/), é possível que até o final de 2020 haja um total de 40 trilhões de gigabytes de dados no mundo. Isso significa 2,2 milhões de terabytes de novos dados gerados todos os dias. Estima-se que menos de 5% dos dados gerados são analisados e transformados em informação.
 </p>
+
+<table>
+<tr><td><a href="https://tenor.com/view/gato-escribiendo-gif-6108221"><img src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Programacao.gif" alt="this slowpoke moves"  width=500/></a></td>
+</table>
+
 ```{r, echo=FALSE,out.width = "600px", fig.align='center'}
-knitr::include_graphics("../img/Programacao.gif")
+#knitr::include_graphics("../img/Programacao.gif")
 ```
 
 ---
@@ -231,15 +243,31 @@ class: center, middle, inverse
 
 ## Ter um pensamento lógico-matemático
 
+<table>
+<tr><td><a href="https://tenor.com/view/imlost-im-lost-confused-calculate-gif-9919713"><img src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/maths.gif" alt="this slowpoke moves"  width=600/></a></td>
+</table>
+
 Estude geometria, álgebra, contagem, funções, probabilidade, matemática financeira e etc.
 
+---
+
 ## Aprenda a programar
+
+<table>
+<tr><td><a href="https://tenor.com/view/programing-crazy-hard-developer-gif-7866345"><img src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/programation.gif" alt="this slowpoke moves"  width=400/></a></td>
+</table>
 
 <p style="text-align: justify;">
 É extremamente importante saber programar em alguma linguagem. Dê preferência a linguagens de programação consolidadas, C, C++, java, python, R e ou qualquer outra que seja de interesse do mercado. Além disso, saiba trabalhar com banco de dados, no minímo, em formatos exportados pelo Excel, xls, xlsx, csv e txt. 
 </p>
 
+---
+
 ## Gostar de estudar
+
+<table>
+<tr><td><a href="https://tenor.com/view/book-studying-study-getting-knowledge-funny-gif-17502795"><img src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Study.gif" alt="this slowpoke moves"  width=300/></a></td>
+</table>
 
 <p style="text-align: justify;">
 Ser pró-ativo e saber buscar a informação de maneira rapída depende de estudo constante e muita leitura.
@@ -262,11 +290,17 @@ class: center, middle, inverse
 # Software R
 
 ---
-
+<p style="text-align: justify;">
 Após instalar o software R e abrir o programa veremos algo semelhante a:
+</p>
+
+<table>
+<tr><td><center><img width="100%" height="70%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Console_R.jpg"></center></td>
+</tr>
+</table>
 
 ```{r, echo=FALSE,out.width = "1000px", fig.align='center'}
-knitr::include_graphics("../img/Console_R.jpg")
+#knitr::include_graphics("../img/Console_R.jpg")
 ```
 
 ---
@@ -274,8 +308,14 @@ knitr::include_graphics("../img/Console_R.jpg")
 <p style="text-align: justify;">
 Apesar de ser simples utilizar o R diretamente do seu console raiz, existe um compilador que é mais atrativo. O RStudio é o melhor ambiente disponível para programação em R. Ao abrir o RStudio, você verá 4 ambientes. Observe a figura abaixo.
 </p>
+
+<table>
+<tr><td><center><img width="70%" height="50%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/rstudio-editor.png"></center></td>
+</tr>
+</table>
+
 ```{r, echo=FALSE,out.width = "500px", fig.align='center'}
-knitr::include_graphics("../img/rstudio-editor.png")
+#knitr::include_graphics("../img/rstudio-editor.png")
 ```
 ---
 
@@ -605,36 +645,14 @@ Pontos em pretos são a previsão para os próximos 14 dias (entre 55623 casos e
 
 ---
 
-class: center, middle, inverse
-# Mais recursos
-
----
-# Mais recursos
-
-- [R para pesquisa
-  científica](http://leg.ufpr.br/~fernandomayer/aulas/reco/). Disciplina
-  ministrada no PPG Ecologia e Conservação (UFPR)
-- Software Carpentry [Lessons](https://software-carpentry.org/lessons/)
-- [Reproducibility in
-  Science](http://ropensci.github.io/reproducibility-guide/). A Guide to
-  enhancing reproducibility in scientific results and writing (rOpensci)
-- [Pesquisa reproduzível com R: de documentos dinâmicos a
-  pacotes](http://cursos.leg.ufpr.br/prr/): minicurso realizado na RBRAS
-  2016 pelos Professores Fernando Mayer e Walmes Zeviani.
-- [R Markdown](https://youtu.be/qFh4XtckP2k): vídeo apresentando a
-  funcionalidade do R Markdown (2015, Meetup R São Paulo).
-
----
 # Referências
 
 - Bastos, F.S. [Dashboard sobre a Covid19](https://fsbmat.shinyapps.io/CoronaBR/), acessado em 29/06/2020.
 - Pesquisadores, Professores e Alunos da UFMG. [CovidLP - Previsão de Curto e Longo prazos para Covid-19](http://est.ufmg.br/covidlp/home/pt/), acessado em 29/06/2020. 
 - Pesquisadores, Professores e Alunos de diversas Instituições de Ensino [Observatório Covid-19 BR](https://covid19br.github.io/index.html), acessado em 29/06/2020.
 - Melo, C., [SIGMODAL](https://sigmoidal.ai/quanto-ganha-um-cientista-de-dados/), acessado em 29/06/2020.
-- Gentleman, R, Lang, DT. (2012). [Statistical Analyses and Reproducible
-  Research](http://www.tandfonline.com/doi/abs/10.1198/106186007X178663).
-  Journal of Computational and Graphical Statistics.
 
 ---
+
 class: center, middle, inverse
 # Obrigado!
