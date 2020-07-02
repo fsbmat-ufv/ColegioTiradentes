@@ -2,7 +2,7 @@
 title: "Evolução, Ensino Remoto e Ciência de Dados"
 subtitle: "Aprendizado e Interação Durante a Pandemia"
 author: "Fernando Bastos (MAF/CAF/UFV)"
-date: 2020-06-04
+date: 2020-07-03
 output:
   xaringan::moon_reader:
     css: ["default", "ibm-plex.css", "ibm-plex-fonts.css"]
@@ -223,7 +223,7 @@ class: center, middle, inverse
 
 ---
 <p style="text-align: justify;">
-De acordo com o <a href="https://www.gartner.com/en/" title="Instituto Gartner">Instituto Gartner</a>, é possível que até o final de 2020 haja um total de 40 trilhões de gigabytes de dados no mundo. Isso significa 2,2 milhões de terabytes de novos dados gerados todos os dias. Estima-se que menos de 5% dos dados gerados são analisados e transformados em informação.
+De acordo com o <a href="https://www.gartner.com/en/" title="Instituto Gartner">Instituto Gartner</a>, 2,2 milhões de terabytes de novos dados são criados todos os dias e a previsão é que até 2020 haja um total de 40 trilhões de gigabytes de dados no mundo.  Estima-se que menos de 5% dos dados gerados são analisados e transformados em informação.
 </p>
 
 <table>
@@ -283,6 +283,8 @@ Ser pró-ativo e saber buscar a informação de maneira rapída depende de estud
 
 [Vagas.com](https://www.vagas.com.br/cargo/cientista-de-dados)
 
+[Exame](https://exame.com/carreira/as-linguagens-de-programacao-com-os-maiores-salarios-do-mundo-em-2020/) - Salário médio anual no mundo para quem trabalha com o software R e a linguagem R é de US$ 61.629,60.
+
 ---
 
 
@@ -320,13 +322,13 @@ Apesar de ser simples utilizar o R diretamente do seu console raiz, existe um co
 ---
 
 <table>
-<tr><td><a href="https:fsbmat-ufv.github.io"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/PessoalPage.jpg"></a></td>
-    <td><a href="https:maf172.github.io"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/maf172.jpg"></a></td>
+<tr><td><a href="https://fsbmat-ufv.github.io/"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/PessoalPage.jpg"></a></td>
+    <td><a href="https://maf172.github.io/"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/maf172.jpg"></a></td>
 </tr>
 </table>
 <table>
-<tr><td><a href="https:maf105.github.io"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/maf105.jpg"></a></td>
-    <td><a href="https:maf261.github.io"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/maf261.jpg"></a></td>
+<tr><td><a href="https://maf105.github.io"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/maf105.jpg"></a></td>
+    <td><a href="https://maf261.github.io"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/maf261.jpg"></a></td>
 </tr>
 </table>
 
@@ -723,6 +725,21 @@ Pontos em pretos são a previsão para os próximos 14 dias (entre 55623 casos e
 </p>
 
 [app_COVID19](https://dest-ufmg.shinyapps.io/app_COVID19/)
+
+---
+
+<p style="text-align: justify;">
+Ninguém pode ter tanta certeza nesse momento de dificuldades, novidades e incertezas que vivemos, pois com certeza estará sujeito a errar constantemente!
+</p>
+
+<table>
+<tr><td><a href="https://twitter.com/OuroDiTolo/status/1278307592809349124?s=09">
+<center>
+  <img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/OsmarTerra.jpg"></img>
+</center>
+</a></td>
+</tr>
+</table>
 
 ---
 
