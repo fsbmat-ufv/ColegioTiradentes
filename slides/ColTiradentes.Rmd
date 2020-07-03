@@ -1,5 +1,5 @@
 ---
-title: "Evolução, Ensino Remoto e Ciência de Dados"
+title: "Desafios do Ensino Remoto e Ciência de Dados"
 subtitle: "Aprendizado e Interação Durante a Pandemia"
 author: "Fernando Bastos (MAF/CAF/UFV)"
 date: 2020-07-03
@@ -133,6 +133,29 @@ O fato é, que agora, ou os professores se adaptam a ferramentas de Ensino onlin
 <p style="text-align: justify;">
 A pandemia não é bem vinda e ninguém deseja que ela permaneça, mas o fato é que ela adiantou alguns processos e fenômenos. Um deles, é a necessidade de profissionais que saibam trabalhar com o computador, o smartphone e outras ferramentas tecnológicas. Além disso, muitos processos serão automatizados daqui em diante, substituindo o trabalho humano. Não podemos fechar os olhos para essa verdade, ou nos adiantamos e nos aperfeiçoamos nos diversos recursos tecnológicos, ou estamos fadados ao desemprego e a dificuldades financeiras.
 </p>
+---
+
+## Desafios
+
+.msmall[
+.pull-left-50[
+**Professores:**
+
+- Se manter jovem;
+- Praticar o desapego;
+- Se atualizar e sair da zona de conforto. Conversar mais com os pares;
+- Utilizar metodologias ativas de Ensino;
+- Elaborar avaliações.
+]
+.pull-right-50[
+**Alunos:**
+
+- Ter paciência;
+- Ajudar o professor;
+- Aprender a selecionar o que é importante!
+]
+]
+
 ---
 
 class: center, middle, inverse
