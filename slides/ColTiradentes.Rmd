@@ -142,7 +142,7 @@ A pandemia não é bem vinda e ninguém deseja que ela permaneça, mas o fato é
 **Professores:**
 
 - Se manter jovem;
-- Praticar o desapego;
+- Praticar o desapego e dar autonomia ao estudante;
 - Se atualizar e sair da zona de conforto. Conversar mais com os pares;
 - Utilizar metodologias ativas de Ensino;
 - Elaborar avaliações.
@@ -683,6 +683,8 @@ As linhas horizontais tracejadas indicam a capacidade aproximada do sistema de s
 
 ---
 
+## Avanço da Covid em Minas Gerais 
+
 <table>
 <tr><td><a href="https://covid19br.github.io/estados.html?uf=mg#">
 <center>
@@ -693,12 +695,14 @@ As linhas horizontais tracejadas indicam a capacidade aproximada do sistema de s
 </table>
 
 <p style="text-align: justify;">
-Pontos em azul são a previsão para os próximos 5 dias (entre 64908 e 67956 casos em 03/07/2020), se a taxa de crescimento continuar a mesma dos últimos 5 dias. Acessado no dia 29/06/2020.
+Pontos em azul são a previsão para os próximos 5 dias (entre 55081 e 57482 casos em 06/07/2020).
 </p>
 
 [Observatório COVID-19](https://covid19br.github.io/estados.html?uf=mg#)
 
 ---
+
+## Minas Gerais
 
 <table>
 <tr><td><a href="https://dest-ufmg.shinyapps.io/app_COVID19/">
@@ -710,12 +714,14 @@ Pontos em azul são a previsão para os próximos 5 dias (entre 64908 e 67956 ca
 </table>
 
 <p style="text-align: justify;">
-Pontos em pretos são a previsão para os próximos 14 dias (Aproximadamente 55623 casos em 03/07/2020). Acessado no dia 29/06/2020.
+Pontos em pretos são a previsão para os próximos 14 dias (Aproximadamente 53589 confirmados em 03/07/2020). Acessado no dia 03/07/2020.
 </p>
 
 [app_COVID19](https://dest-ufmg.shinyapps.io/app_COVID19/)
 
 ---
+
+## Minas Gerais
 
 <table>
 <tr><td><a href="https://dest-ufmg.shinyapps.io/app_COVID19/">
@@ -727,12 +733,14 @@ Pontos em pretos são a previsão para os próximos 14 dias (Aproximadamente 556
 </table>
 
 <p style="text-align: justify;">
-Pontos em pretos são a previsão para os próximos 14 dias (entre 55623 casos em 03/07/2020), se a taxa de crescimento continuar a mesma dos últimos 5 dias. Acessado no dia 29/06/2020.
+Pontos em pretos são a previsão para os próximos 14 dias (62940 casos em 03/07/2020). Acessado no dia 03/07/2020.
 </p>
 
 [app_COVID19](https://dest-ufmg.shinyapps.io/app_COVID19/)
 
 ---
+
+## Brasil
 
 <table>
 <tr><td><a href="https://dest-ufmg.shinyapps.io/app_COVID19/">
@@ -744,7 +752,7 @@ Pontos em pretos são a previsão para os próximos 14 dias (entre 55623 casos e
 </table>
 
 <p style="text-align: justify;">
-Pontos em pretos são a previsão para os próximos 14 dias (entre 55623 casos em 03/07/2020), se a taxa de crescimento continuar a mesma dos últimos 5 dias. Acessado no dia 29/06/2020.
+Pontos em pretos são a previsão para os próximos 14 dias (entre 55623 casos em 03/07/2020). Acessado no dia 29/06/2020.
 </p>
 
 [app_COVID19](https://dest-ufmg.shinyapps.io/app_COVID19/)
